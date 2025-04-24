@@ -1,0 +1,11 @@
+streamlit==1.42.0
+azure-ai-documentintelligence==1.0.0
+azure-search-documents==11.5.1
+openai==1.63.2
+azure-ai-textanalytics==5.3.0
+python-dotenv==1.0.1
+fastapi==0.115.0
+uvicorn==0.30.6
+protobuf>=3.20.3
+pyyaml>=6.0.0
+tenacity>=9.0.0
