@@ -4,7 +4,8 @@ __pycache__/
 *$py.class
 
 # Data files
-data/
+data/job_descriptions/
+data/resumes/
 
 #venv
 hrtech-venv/
