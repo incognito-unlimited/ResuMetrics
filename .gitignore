@@ -6,6 +6,9 @@ __pycache__/
 # Data files
 data/
 
+#venv
+hrtech-venv/
+
 # C extensions
 *.so
 
