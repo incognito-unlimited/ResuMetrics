@@ -13,3 +13,4 @@ transformers>=4.44.2
 torch>=2.4.1
 datasets>=3.0.1
 nltk>=3.8.1
+groq
